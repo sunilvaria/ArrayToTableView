@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C1DEE2E6-73E7-4850-AB19-3073DE0EFD4A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DE387E9B7A53E9EF623E71FDE2ADEDEACC51678A</key>
+		<string>github.com:sunilvaria/ArrayToTableView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ArrayToTableView.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DE387E9B7A53E9EF623E71FDE2ADEDEACC51678A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:sunilvaria/ArrayToTableView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DE387E9B7A53E9EF623E71FDE2ADEDEACC51678A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DE387E9B7A53E9EF623E71FDE2ADEDEACC51678A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ArrayToTableView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
